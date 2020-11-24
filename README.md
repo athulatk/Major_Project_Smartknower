@@ -1,4 +1,4 @@
-SmartKnower AI Major Project - Image Classification Using Transfer Learning
+#SmartKnower AI Major Project - Image Classification Using Transfer Learning
 
 Base model used : VGG16
 
